@@ -112,7 +112,7 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "0,2,3,-1,-1,-1,-1,617,1828,78,2484",
+			"position": "0,2,3,-1,-1,-1,-1,781,1890,242,2546",
 			"replace":
 			{
 				"height": 0.0
@@ -134,7 +134,7 @@
 				],
 				"width": 0.0
 			},
-			"show_minimap": true,
+			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,

@@ -1,4 +1,7 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_dependencies":
 	[
 		"0_package_control_loader",
@@ -8,6 +11,7 @@
 	],
 	"installed_packages":
 	[
+		"Git",
 		"Package Control"
 	]
 }
