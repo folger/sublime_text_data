@@ -3,3 +3,4 @@ Backup/
 *.cache
 Auto Save Session.sublime_session
 Session.sublime_session
+Package Control.last-run
